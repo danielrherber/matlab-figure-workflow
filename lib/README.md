@@ -1,1 +1,1 @@
-This can be location of other code used.
+This can be the location of other code that is used.
