@@ -1,5 +1,5 @@
-# Ignore everything
-*
-
-# But not these files...
 !.gitignore
+
+# Ignore these folders
+MFX 40397/*
+MFX 23629/*
